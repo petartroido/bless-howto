@@ -21,7 +21,7 @@ allprojects {
         jcenter()
         // Add BLESS Repository
         maven{
-            url "https://troido.jfrog.io/artifactory/bless-libs-release"
+            url "https://troido.jfrog.io/artifactory/troido-gradle-release-local"
         }
 }
 ```
